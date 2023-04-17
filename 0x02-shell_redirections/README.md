@@ -1,1 +1,2 @@
-shell redirections
+shell redirection
+no more jss
